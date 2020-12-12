@@ -1,0 +1,7 @@
+This is a program that calculates arithmetic operations on two integers.
+Please enter the operator type and two integers.
+Enter ADD for addition, MINUS for subtraction, DIV for division, and MULTI for multiplication.
+Enter the form "operator number1 number2"
+Each value must be separated by a space.
+127.0.0.1
+6789
