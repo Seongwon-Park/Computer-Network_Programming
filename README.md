@@ -14,6 +14,9 @@ Gachon University 2019 fall semester
 # Preview
 *Cloud Calculator
 
+![ScreenShot](calculator_preview.png)
 
 
 *Chatter and Whisper
+
+![ScreenShot](chatter_preview.png)
