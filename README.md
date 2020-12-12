@@ -3,6 +3,7 @@ Gachon University 2019 fall semester
 
 # Task
 *Part 1: Using network socket programming, implement the cloud calculator.
+
 *Part 2: Using network socket programming with multi thread, implement the chatting room.
 
 # Document
